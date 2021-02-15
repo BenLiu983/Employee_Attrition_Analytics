@@ -59,6 +59,11 @@ Attrition and Working Years: Employees with more than 8 years of working experie
 
 * Model1 - Logistics Regression
 
+![lr1](https://user-images.githubusercontent.com/64850893/107980441-46df2380-6f8e-11eb-8b98-f06cb0a91f9e.jpg)
+
+
+
+
 * Model2 - Random Forest
 
 * Model3 - ANN
