@@ -21,7 +21,6 @@ The target dataset contains 1470 rows and 35 features.
 ![dataset](https://user-images.githubusercontent.com/64850893/107973740-9835e580-6f83-11eb-8747-999eb9f7f5e9.jpg)
 
 Basic statistics:
-
-
+![stat](https://user-images.githubusercontent.com/64850893/107973793-ac79e280-6f83-11eb-99a8-74b21a6de72a.jpg)
 
 # Data Visualization
