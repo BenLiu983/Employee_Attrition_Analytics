@@ -61,6 +61,7 @@ Attrition and Working Years: Employees with more than 8 years of working experie
 
 ![lr1](https://user-images.githubusercontent.com/64850893/107980441-46df2380-6f8e-11eb-8b98-f06cb0a91f9e.jpg)
 
+![lr2](https://user-images.githubusercontent.com/64850893/107980521-6bd39680-6f8e-11eb-92fd-8482cb9c5c7a.jpg)
 
 
 
