@@ -45,6 +45,7 @@ Attrition and Distance: For the exployees who live over 11 kilos from home, the 
 
 ![att_dis](https://user-images.githubusercontent.com/64850893/107978686-38dbd380-6f8b-11eb-9311-5e46747af222.jpg)
 
-Attrition and Working Years:
+Attrition and Working Years: Employees with more than 8 years of working experience tend to stay compared to the less experienced.
 
+![att_year](https://user-images.githubusercontent.com/64850893/107979323-6412f280-6f8c-11eb-819d-e9e520ea5788.jpg)
 
