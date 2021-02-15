@@ -24,3 +24,6 @@ Basic statistics:
 ![stat](https://user-images.githubusercontent.com/64850893/107973793-ac79e280-6f83-11eb-99a8-74b21a6de72a.jpg)
 
 # Data Visualization
+
+For the response variable "Attrition", around 200 out of 1270 employee left the company last year.
+
