@@ -63,15 +63,16 @@ Attrition and Working Years: Employees with more than 8 years of working experie
 
 ![lr2](https://user-images.githubusercontent.com/64850893/107980521-6bd39680-6f8e-11eb-92fd-8482cb9c5c7a.jpg)
 
-
 * Model2 - Random Forest
 
 ![rf1](https://user-images.githubusercontent.com/64850893/107980590-8e65af80-6f8e-11eb-9633-84ef2e513a95.jpg)
 
-
-
+![rf2](https://user-images.githubusercontent.com/64850893/107980669-a9d0ba80-6f8e-11eb-82a6-32bb0ec69f0e.jpg)
 
 * Model3 - ANN
+
+
+
 
 # Conclustion
 
