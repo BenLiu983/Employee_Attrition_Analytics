@@ -77,4 +77,10 @@ Attrition and Working Years: Employees with more than 8 years of working experie
 
 # Future
 
+* More advanced models
+
+* Parameter tuning
+
+* Implement sampling methods to deal with the imbalanced target variable.
+
 
