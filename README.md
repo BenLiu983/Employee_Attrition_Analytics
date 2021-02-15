@@ -31,4 +31,6 @@ For the response variable "Attrition", around 200 out of 1270 employee left the 
 
 Attrition and Age: Employees from 28 to 33 years old tend to have a higher chance to resign.
 
+![att_age](https://user-images.githubusercontent.com/64850893/107977767-abe44a80-6f89-11eb-84ec-68bad187dd55.jpg)
+
 
