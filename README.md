@@ -49,3 +49,20 @@ Attrition and Working Years: Employees with more than 8 years of working experie
 
 ![att_year](https://user-images.githubusercontent.com/64850893/107979323-6412f280-6f8c-11eb-819d-e9e520ea5788.jpg)
 
+# Data Preparation
+
+* OneHot Encoding
+* MinMax Scaling
+* Train Test Split
+
+# Modeling
+
+* Model1 - Logistics Regression
+
+* Model2 - Random Forest
+
+* Model3 - ANN
+
+# Conclustion
+
+# Future
