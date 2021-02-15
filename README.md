@@ -9,7 +9,7 @@ Research results from https://toggl.com/blog/cost-of-hiring-an-employee :
 
 *Companies spend 15%-20% of the employee's salary to recruit a new candidate.
 
-What major factors influence the employee's resignation? This question is preoccupying the minds of business owners around the world. Understanding this, I initiated to discover several factors which may play an important role in staff's turnover rate.
+Since the cost of hiring is relevantly high, to discover factors influencing employees's resignation is preoccupying the minds of business owners around the world. Understanding this, I initiated to discover several features which may play an important role in staff's turnover rate.
 
 This project is based on a dataset that contains information about 1,400 employees and 35 features. The complete dataset is from https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset. The goal of this report is to discover the factors impact the employees attribution and develop a model to predict the result.
 
@@ -18,6 +18,7 @@ First of all, I conducted exploratory data analysis and generated visualization 
 
 # EDA
 The target dataset contains 1470 rows and 35 features
-![readme_plot1](https://user-images.githubusercontent.com/64850893/86271399-cd2f2c80-bb9a-11ea-9ec5-4799012e92e8.jpg)
+![dataset](https://user-images.githubusercontent.com/64850893/107973740-9835e580-6f83-11eb-8747-999eb9f7f5e9.jpg)
+
 
 # Data Visualization
