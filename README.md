@@ -71,6 +71,8 @@ Attrition and Working Years: Employees with more than 8 years of working experie
 
 * Model3 - ANN
 
+![ann1](https://user-images.githubusercontent.com/64850893/107980725-c10fa800-6f8e-11eb-90f3-da1cbf701ae9.jpg)
+
 
 
 
