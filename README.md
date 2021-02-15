@@ -33,6 +33,10 @@ Attrition and Age: Employees from 28 to 33 years old tend to have a higher chanc
 
 ![att_age](https://user-images.githubusercontent.com/64850893/107977767-abe44a80-6f89-11eb-84ec-68bad187dd55.jpg)
 
-Attrition and JobRole: Sales Representitives tend to leave compared to any other jobs. 
+Attrition and JobRole: Sales Representitives tend to leave compared to any other jobs, while the Research Directors and Managers seldom left.
+
+![att_job](https://user-images.githubusercontent.com/64850893/107978159-552b4080-6f8a-11eb-9c83-0ac09882699f.jpg)
+
+Attrition and MaritalStatus: Single employees tend to leave compared to married and divorced.
 
 
