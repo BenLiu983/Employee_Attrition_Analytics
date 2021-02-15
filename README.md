@@ -39,4 +39,5 @@ Attrition and JobRole: Sales Representitives tend to leave compared to any other
 
 Attrition and MaritalStatus: Single employees tend to leave compared to married and divorced.
 
+![att_mar](https://user-images.githubusercontent.com/64850893/107978508-e00c3b00-6f8a-11eb-8ea8-090f8f461351.jpg)
 
