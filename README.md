@@ -41,3 +41,10 @@ Attrition and MaritalStatus: Single employees tend to leave compared to married 
 
 ![att_mar](https://user-images.githubusercontent.com/64850893/107978508-e00c3b00-6f8a-11eb-8ea8-090f8f461351.jpg)
 
+Attrition and Distance: For the exployees who live over 11 kilos from home, the probablity that they left the company was higher.
+
+![att_dis](https://user-images.githubusercontent.com/64850893/107978686-38dbd380-6f8b-11eb-9311-5e46747af222.jpg)
+
+Attrition and Working Years:
+
+
