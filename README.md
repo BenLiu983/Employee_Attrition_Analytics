@@ -27,3 +27,5 @@ Basic statistics:
 
 For the response variable "Attrition", around 200 out of 1270 employee left the company last year.
 
+![attrition](https://user-images.githubusercontent.com/64850893/107977484-2f516c00-6f89-11eb-820a-727a27bac865.jpg)
+
