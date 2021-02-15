@@ -17,8 +17,11 @@ This project is based on a dataset that contains information about 1,400 employe
 First of all, I conducted exploratory data analysis and generated visualization to extract insights. After that, Logistic Regression, Random Forest, and ANN were applied on the dataset to predict whether the employees are more likely to quit.
 
 # EDA
-The target dataset contains 1470 rows and 35 features
+The target dataset contains 1470 rows and 35 features.
 ![dataset](https://user-images.githubusercontent.com/64850893/107973740-9835e580-6f83-11eb-8747-999eb9f7f5e9.jpg)
+
+Basic statistics:
+
 
 
 # Data Visualization
